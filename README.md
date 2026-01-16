@@ -1,2 +1,1 @@
-# excel-sales-dashboard
 Excel-based sales report analysis demonstrating data cleaning, pivot tables, slicers, and dynamic charts to visualize monthly sales performance by region, product category, and salesperson. Designed to showcase practical skills in data analysis and visualization.
